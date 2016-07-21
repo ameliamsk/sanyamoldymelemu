@@ -1,0 +1,22 @@
+body {
+    background-color: lightsteelblue;
+    color: mintcream;
+    position: relative;
+    top: 130px;
+    text-align: center;
+
+}
+
+h1 {
+    color: mintcream;
+    font-size: 150%;
+}
+
+p {
+    border-style: solid;
+    border-radius: 10px;
+    width: 20%;
+    text-align: center;
+    position: relative;
+    left: 650px;
+}
